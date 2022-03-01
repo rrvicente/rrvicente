@@ -4,7 +4,7 @@ Here something about me:
 
 A software developer passionate in web development. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate as part of the team.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenerson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrvicente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rrvicente)](https://github.com/rrvicente)
