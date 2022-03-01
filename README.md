@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A software developer passionate in web development. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate as part of the team.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
